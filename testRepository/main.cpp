@@ -123,5 +123,7 @@ int main(int argc, const char * argv[]) {
 
     Fish sludge;
     
+    Fish water;
+    
     return 0;
 }
