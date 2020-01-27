@@ -121,6 +121,7 @@ int main(int argc, const char * argv[]) {
     else
         cout << "jeff is alive" << endl;
 
+    Fish sludge;
     
     return 0;
 }
