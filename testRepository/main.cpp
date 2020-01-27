@@ -125,5 +125,7 @@ int main(int argc, const char * argv[]) {
     
     Fish water;
     
+    Salmon teeth(true);
+    
     return 0;
 }
